@@ -41,7 +41,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ### `npm run deploy`
 
-This will deploy to GitHub Pages
+This will deploy to GitHub Pages. Check the [CRA docs](https://create-react-app.dev/docs/deployment/#github-pages)
 
 ## Learn More
 
